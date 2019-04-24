@@ -6,6 +6,13 @@
 2. Data Preprocessing
 3. Modeling
 
+The link for Zenedo files:
+
+
+The link for HTML and CSS code file Github:
+
+https://github.com/Richajoshi77/DATS_6501_HTML-CSS
+
 
 
 
