@@ -16,5 +16,12 @@ The link for HTML and CSS code file Github:
 https://github.com/Richajoshi77/DATS_6501_HTML-CSS
 
 
+The link for github.io file:
+
+https://richajoshi77.github.io/DATS_6501_HTML-CSS/index.html
+
+
+
+
 
 
