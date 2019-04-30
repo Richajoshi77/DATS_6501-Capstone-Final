@@ -1,6 +1,6 @@
 ### DATS_6501-Capstone-Project-Richa-Joshi
 
-#### This repository contains the below code for:
+#### This repository contains below files:
 
 1. Exploratory Data Analysis
 2. Data Preprocessing
