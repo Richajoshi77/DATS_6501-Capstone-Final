@@ -7,7 +7,7 @@
 3. Modeling -1
 4. Modeling -2
 
-The link for the datsets:
+The link for the datasets:
 
 https://www.kaggle.com/c/elo-merchant-category-recommendation/data
 
