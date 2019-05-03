@@ -7,6 +7,10 @@
 3. Modeling -1
 4. Modeling -2
 
+The link for the datsets:
+
+https://www.kaggle.com/c/elo-merchant-category-recommendation/data
+
 The link for Zenedo files:
 
 https://zenodo.org/record/2650494#.XMZbUZNKjBI
